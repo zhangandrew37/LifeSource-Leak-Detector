@@ -1,3 +1,3 @@
 # LifeSource-Leak-Detector
 
-![Circuit Design] (Circuit Design.png)
+![Circuit Design](Circuit Design.png)
